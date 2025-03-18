@@ -1,19 +1,21 @@
 # Nvidia_Jetson_Nano
-process and tools for ARM CUDA AI autonomous module
+
+## Process and tools for ARM CUDA AI autonomous module
 
 From Developer Kit Version - JetPack 4.4.1 - SOC Tegra210
 
-Training with differents languages and frameworks for Deep Neural Network experience
+## Training with differents languages and frameworks for Deep Neural Network experience
 
-Python
-C++
+* Python
+* C++
 
-TensorFlow
-PyTorch
-MXNet
-ONNX
+* TensorFlow
+* PyTorch
+* MXNet
+* ONNX
 
-tensorRT acceleration
+## TensorRT acceleration
 
-Tools
+## Tools
+
 how update firefox on Jetson Nano JetPack 4.4.1
